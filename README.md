@@ -272,7 +272,8 @@ More Bonus Points: Handle trailing slashes! A request for '/about' or '/about/' 
             # so it should be placed in a function here
 
 
-##Test Cases
+## Test Cases
+
 
     # Here are some test cases and expected outputs you can use to test your implementation
     
