@@ -4,4 +4,4 @@ This problem requires to sort an array that consist 0, 1 and 2 only. In order to
 liner time, I am first calculating the frequency of occurrences of numbers 0, 1 and 2 and creating new sorted list 
 using frequencies.
 
-`Time Complexity of this problem is O(n) and Space Complexity of this problem is O(3)`
+`Time Complexity of this problem is O(n) and Space Complexity of this problem is O(n)`
